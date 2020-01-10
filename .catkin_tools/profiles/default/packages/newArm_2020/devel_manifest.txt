@@ -1,0 +1,5 @@
+newArm_2020
+/home/marsrover/BYU-Mars-Rover/moveit_ws_2020/devel/.private/newArm_2020/cmake.lock /home/marsrover/BYU-Mars-Rover/moveit_ws_2020/devel/./cmake.lock
+/home/marsrover/BYU-Mars-Rover/moveit_ws_2020/devel/.private/newArm_2020/share/newArm_2020/cmake/newArm_2020Config.cmake /home/marsrover/BYU-Mars-Rover/moveit_ws_2020/devel/share/newArm_2020/cmake/newArm_2020Config.cmake
+/home/marsrover/BYU-Mars-Rover/moveit_ws_2020/devel/.private/newArm_2020/share/newArm_2020/cmake/newArm_2020Config-version.cmake /home/marsrover/BYU-Mars-Rover/moveit_ws_2020/devel/share/newArm_2020/cmake/newArm_2020Config-version.cmake
+/home/marsrover/BYU-Mars-Rover/moveit_ws_2020/devel/.private/newArm_2020/lib/pkgconfig/newArm_2020.pc /home/marsrover/BYU-Mars-Rover/moveit_ws_2020/devel/lib/pkgconfig/newArm_2020.pc

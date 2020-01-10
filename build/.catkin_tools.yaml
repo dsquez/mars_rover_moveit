@@ -1,0 +1,6 @@
+devel_space: /home/marsrover/BYU-Mars-Rover/moveit_ws_2020/devel
+install: false
+install_space: /home/marsrover/BYU-Mars-Rover/moveit_ws_2020/install
+profile: default
+source_space: /home/marsrover/BYU-Mars-Rover/moveit_ws_2020/src
+workspace: /home/marsrover/BYU-Mars-Rover/moveit_ws_2020

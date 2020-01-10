@@ -1,0 +1,10 @@
+moveit_setup_assistant_config:
+  URDF:
+    package: ""
+    relative_path: /home/marsrover/BYU-Mars-Rover/moveit_ws_2020/newArm.urdf
+  SRDF:
+    relative_path: config/roverArm.srdf
+  CONFIG:
+    author_name: Derek Vasquez
+    author_email: derek.vasquez@byu.edu
+    generated_timestamp: 1578676683

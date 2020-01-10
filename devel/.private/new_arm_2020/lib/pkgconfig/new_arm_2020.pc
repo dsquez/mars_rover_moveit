@@ -1,0 +1,8 @@
+prefix=/home/marsrover/BYU-Mars-Rover/moveit_ws_2020/devel/.private/new_arm_2020
+
+Name: new_arm_2020
+Description: Description of new_arm_2020
+Version: 0.3.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

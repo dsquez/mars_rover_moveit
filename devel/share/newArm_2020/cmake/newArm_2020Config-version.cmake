@@ -1,0 +1,1 @@
+/home/marsrover/BYU-Mars-Rover/moveit_ws_2020/devel/.private/newArm_2020/share/newArm_2020/cmake/newArm_2020Config-version.cmake
